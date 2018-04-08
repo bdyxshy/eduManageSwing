@@ -1,0 +1,2 @@
+school.sql为项目用到的数据库文件。
+eduManageSwing为教务管理系统项目源码。
